@@ -1,0 +1,1 @@
+<view><good-list vue-id="576f0adc-1" goodsList="{{goodsList}}" data-event-opts="{{[['^listClick',[['goGoodsDetail']]]]}}" bind:listClick="__e" bind:__l="__l"></good-list><block wx:if="{{flag}}"><view class="isOver">————我是有底线的————</view></block></view>
